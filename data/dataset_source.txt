@@ -1,0 +1,11 @@
+Dataset Name: Titanic Dataset
+
+Source:
+GitHub Repository - datasciencedojo/datasets
+File: titanic.csv
+
+Description:
+The Titanic dataset is a publicly available dataset commonly used for machine learning classification tasks. It contains passenger information such as passenger class, age, sex, fare, family details, embarkation point, and survival status. The target variable is "Survived", which indicates whether a passenger survived the Titanic disaster.
+
+Downloaded From:
+GitHub
